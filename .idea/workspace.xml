@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9fb4e2b-bb30-49a0-bbbc-442b5c73ee0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/MicroPython.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uniberry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uniberry.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -155,7 +150,7 @@
       <workItem from="1626013960634" duration="1147000" />
       <workItem from="1626016063582" duration="1465000" />
       <workItem from="1626020763961" duration="3277000" />
-      <workItem from="1626024889028" duration="1885000" />
+      <workItem from="1626024889028" duration="2123000" />
     </task>
     <task id="LOCAL-00001" summary="fix MicroPython">
       <created>1626016900201</created>

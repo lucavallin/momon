@@ -10,6 +10,8 @@ h = picounicorn.get_height()
 while True:
     for x in range(w):
         for y in range(h):
+            x = list(random.choices(range(w), k=1))
+            y = list(random.choices(range(h), k=1))
             r, g, b = color = list(random.choices(range(256), k=3))
             time.sleep(0.1)
             picounicorn.set_pixel(x, y, r, g, b)
@@ -18,4 +20,6 @@ while True:
     for x in range(w):
         for y in range(h):
             time.sleep(0.1)
+            x = list(random.choices(range(w), k=1))
+            y = list(random.choices(range(h), k=1))
             picounicorn.set_pixel(x, y, 0, 0, 0)
