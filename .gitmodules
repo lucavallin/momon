@@ -7,3 +7,6 @@
 [submodule "micropython"]
 	path = micropython
 	url = https://github.com/micropython/micropython.git
+[submodule "pimoroni-pico"]
+	path = pimoroni-pico
+	url = https://github.com/pimoroni/pimoroni-pico.git
