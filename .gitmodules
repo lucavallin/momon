@@ -1,12 +1,12 @@
 [submodule "pico-sdk"]
-	path = pico-sdk
+	path = pi/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
 [submodule "pico-examples"]
-	path = pico-examples
+	path = pi/pico-examples
 	url = https://github.com/raspberrypi/pico-examples.git
 [submodule "micropython"]
-	path = micropython
+	path = pi/micropython
 	url = https://github.com/micropython/micropython.git
 [submodule "pimoroni-pico"]
-	path = pimoroni-pico
+	path = pi/pimoroni-pico
 	url = https://github.com/pimoroni/pimoroni-pico.git
